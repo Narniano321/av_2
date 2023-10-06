@@ -19,6 +19,21 @@ p {
     }
     
     header{
-        color: white;
+        color: rgb(241, 226, 226);
     }
-    
+    .cabecalho{
+        background-color: rgb(75, 36, 126);
+        display: flex;
+    }
+    .logoimg{
+        width: 120px;
+        height: 75px;
+        margin-left: 400px;
+        
+    }
+    .listacabecalho{
+        display: flex;
+        margin-left: 100px;
+        margin-top: 10px;
+        font-size: 20px;
+    }
